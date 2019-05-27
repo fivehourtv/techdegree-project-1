@@ -1,1 +1,1 @@
-# techdegree-project-1
+# A collection of all my work.
